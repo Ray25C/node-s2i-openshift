@@ -52,10 +52,10 @@ app.get('/info', function(req, res) {
   if (CURRENTMODE == MODE.TEST) {
     patientdata = {
       "personal": {
-        "name": "Ralph DAlmeida",
-        "age": 38,
-        "gender": "male",
-        "street": "34 Main Street",
+        "name": "Cookie Chiang",
+        "age": 3,
+        "gender": "female",
+        "street": "48 Main Street",
         "city": "Toronto",
         "zipcode": "M5H 1T1"
       },
